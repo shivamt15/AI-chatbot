@@ -13,6 +13,7 @@ const chatbotResponses = {
     "what is an api": "API stands for Application Programming Interface. It allows different software applications to communicate with each other.",
     "what is programming": "Programming is the process of writing instructions that tell a computer what to do.",
     "who created python": "Python was created by Guido van Rossum and was first released in 1991.",
+    "what is GNDECB": "GNDECB stands for GURU NANAK DEV ENGINEERING COLLEGE BIDAR.",
     "bye": "Goodbye! 👋 Have a great day!",
     "what is 10 + 10": "10 + 10 equals 20.",
     "thank you": "You're welcome! 😊"
