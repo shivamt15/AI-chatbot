@@ -14,6 +14,7 @@ const chatbotResponses = {
     "what is programming": "Programming is the process of writing instructions that tell a computer what to do.",
     "who created python": "Python was created by Guido van Rossum and was first released in 1991.",
     "bye": "Goodbye! 👋 Have a great day!",
+    "what is 10 + 10": "10 + 10 equals 20.",
     "thank you": "You're welcome! 😊"
 };
 const chatBox = document.getElementById("chatBox");
