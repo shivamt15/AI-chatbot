@@ -61,5 +61,5 @@ function getBotResponse(userText) {
             return chatbotResponses[key];
         }
     }
-    return "Sorry, I don't understand that question yet. 🤔";
+    return "Sorry, I don't understand that question yet. bhak bkl 🤔";
 }
